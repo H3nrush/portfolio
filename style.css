@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(130, 255, 191);
+    text-align: center;
+}
+#skills {
+    background-color: yellow;
+    font: bold;
+}
+#menuTOP {
+    background-color: rgb(139, 255, 230);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.info
+{
+    background-color: rgb(227, 98, 250);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.contactfont {
+    background-color: black;
+    color: white;
+    font-size: small;
+    margin: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+}
